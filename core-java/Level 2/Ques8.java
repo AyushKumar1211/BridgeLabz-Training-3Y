@@ -8,7 +8,7 @@ public class Ques8 {
         double b = sc.nextDouble();
          System.out.println("Enter the value of c: ");
          double c = sc.nextDouble();
-        System.out.println("The results of Int Operations(a + b *c, a * b + c, c + a / b, and a % b + c.) are "+(a + b *c)+", "+(a * b + c)+",and "+(a % b + c));
+        System.out.println("The results of Int Operations((a + b *c), (a * b + c), (c + a / b), and (a % b + c)) are "+(a + b *c)+", "+(a * b + c)+",and "+(a % b + c));
          sc.close();
     }
 }
