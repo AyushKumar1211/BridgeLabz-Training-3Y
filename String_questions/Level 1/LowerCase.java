@@ -10,6 +10,7 @@ public class LowerCase {
                 result.append(ch);
             }
         }
+        
         return result.toString();
     }
     static boolean compareStrings(String s1, String s2) {
